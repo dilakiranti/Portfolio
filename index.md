@@ -6,7 +6,8 @@
 <div style="text-align: justify">Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. Machine learning is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, and to uncover key insights in data mining projects. These insights subsequently drive decision making within applications and businesses, ideally impacting key growth metrics. </div>
 
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/visualisasi1.png"/></center>
+<center><img src="images/visualisasi2.png"/></center>
 
 ---
 ## GUI Python for Exponential Smoothing

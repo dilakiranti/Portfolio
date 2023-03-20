@@ -12,16 +12,18 @@
 ---
 ## GUI Python for Moving Average (Data : Jumlah Wisatawan Gucci)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dilakiranti/dilakiranti.github.io/blob/main/projects/GUI%20Python.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dilakiranti/Portofolio/blob/main/projects/GUI%20Python%20Moving%20Average.ipynb)
 
 **Moving Average:** 
 <div style="text-align: justify"> The moving average is a statistical method used for forecasting long-term trends. The technique represents taking an average of a set of numbers in a given range while moving the range.</div>
 
 <div style="text-align: justify"><br>
-The steps to Use the Exponential Smoothing GUI<br>
+The steps to Use the Moving Average GUI<br>
 1. Click the Input File button<br>
-2. Load file<br>
-3. Click the Hitung button</div>
+2. Choose file "Jumlah Wisatawan Gucci"<br>
+3. Load file<br>
+4. Click the Hitung button</div>
 
-
+<center><img src="images/gui.PNG"/></center>
+<center><img src="images/gui2.PNG"/></center>
 ---

@@ -5,8 +5,9 @@
 
 <div style="text-align: justify">Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. Machine learning is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, and to uncover key insights in data mining projects. These insights subsequently drive decision making within applications and businesses, ideally impacting key growth metrics. </div>
 
-
+<br>
 <center><img src="images/visualisasi1.PNG"/></center>
+<br>
 <center><img src="images/visualisasi2.PNG"/></center>
 
 ---
@@ -24,6 +25,8 @@ The steps to Use the Moving Average GUI<br>
 3. Load file<br>
 4. Click the Hitung button</div>
 
+<br>
 <center><img src="images/gui.PNG"/></center>
+<br>
 <center><img src="images/gui2.PNG"/></center>
 ---

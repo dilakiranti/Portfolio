@@ -1,7 +1,7 @@
 # Portfolio
 ---
 ## Machine Learning Visualizations
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Ivi1EaeTfS7iBngwms2x6_PWMW9qyl55#scrollTo=5v77wiRYK_lK)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Ivi1EaeTfS7iBngwms2x6_PWMW9qyl55?usp=sharing)
 
 <div style="text-align: justify">Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. Machine learning is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, and to uncover key insights in data mining projects. These insights subsequently drive decision making within applications and businesses, ideally impacting key growth metrics. </div>
 

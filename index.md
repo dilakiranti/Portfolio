@@ -15,8 +15,9 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dilakiranti/Portofolio/blob/main/projects/GUI%20Python%20Moving%20Average.ipynb)
 
-**Moving Average:** 
 <div style="text-align: justify"> The moving average is a statistical method used for forecasting long-term trends. The technique represents taking an average of a set of numbers in a given range while moving the range.</div>
+<br>
+<div style="text-align: justify"> A GUI (graphical user interface) is a system of interactive visual components for computer software. A GUI displays objects that convey information, and represent actions that can be taken by the user.</div>
 
 <div style="text-align: justify"><br>
 The steps to Use the Moving Average GUI<br>
